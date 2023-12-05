@@ -1,0 +1,10 @@
+html, body{
+    background-color: #a9d7d1;
+  }
+  .survey-form {
+    background-color: #e9ecef;
+    padding: 20px;
+  }
+  .modal-content textarea.form-control {
+    max-width: 100%;
+  }
